@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=BKerio&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
- <img src="https://img.shields.io/badge/Focus-AI%2FML%20Research-764ba2?style=for-the-badge" alt="Focus" />
- <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-667eea?style=for-the-badge" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=BKerio&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Research-764ba2?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-667eea?style=for-the-badge" alt="Status" />
 </p>
 
 ---
@@ -18,14 +18,14 @@
 
 ```python
 class BrianKerio:
-   def __init__(self):
-       self.role = "Software Engineer & AI/ML Researcher"
-       self.location = "Building the future, one commit at a time"
-       self.mindset = "Code is poetry, AI is art"
-       self.currently = ["Training neural nets", "Optimizing algorithms", "Shipping products"]
-   
-   def say_hi(self):
-       return "Welcome to my digital playground! 🚀"
-       
+    def __init__(self):
+        self.role = "Software Engineer & AI/ML Researcher"
+        self.location = "Building the future, one commit at a time"
+        self.mindset = "Code is poetry, AI is art"
+        self.currently = ["Training neural nets", "Optimizing algorithms", "Shipping products"]
+    
+    def say_hi(self):
+        return "Welcome to my digital playground! 🚀"
+        
 me = BrianKerio()
 print(me.say_hi())
