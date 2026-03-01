@@ -24,9 +24,18 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/BrianKerio"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/@realbrianKerio"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="mailto:briankerio47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/BrianKerio">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/@realbrianKerio">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:briankerio47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://briankerio.me">
+    <img src="https://img.shields.io/badge/Website-863e1e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
 </p>
 
 ---
