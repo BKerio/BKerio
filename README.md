@@ -47,7 +47,7 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 * Implemented a microservice architecture reducing downtime by 25%.
 * Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
 
-### 🎓 University Financial Management System *(Aug 2025)*
+### 🎓 University Financial Management System *(Aug 2024)*
 **Tech Stack:** `Node.js` | `MongoDB` | `React`
 * Built a platform supporting 2,000+ students with real-time M-Pesa fee payments.
 * Developed analytics dashboards reducing manual accounting workload by 50%.
@@ -178,17 +178,20 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BKerio&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BKerio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/BKerio)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BKerio&theme=dark&hide_border=false)](https://github.com/BKerio)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BKerio&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKerio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BKerio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/BKerio)
-
-<br>
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=BKerio&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+<p align="center">
+  <a href="https://github.com/BKerio">
+    <img src="https://visitcount.itsvg.in/api?id=BKerio&icon=0&color=0" alt="Visit Count" />
+  </a>
+</p>
