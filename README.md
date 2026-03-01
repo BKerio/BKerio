@@ -1,4 +1,3 @@
-use this color like combo on the header
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea  ,100:764ba2&height=200&section=header&text=Brian%20Kerio&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Researcher&descAlignY=55&descSize=20"/>
