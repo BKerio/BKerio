@@ -65,7 +65,7 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 
 ### 🤖 Autonomous AI Agent *(Feb 2024)*
 **Tech Stack:** `Python FastAPI` | `Node.js` | `React` | `Ollama` | `Llama 3.2` | `MongoDB`
-* Built an AI agent using Llama 3.2 for automated WhatsApp, email, and SMS communications.
+* Built an AI agent using Llama 3.2 for automated WhatsApp, Email, and SMS communications.
 * Implemented a RAG pipeline improving response relevance by 38%.
 * Automated responses, cutting support workload by 55%.
 
