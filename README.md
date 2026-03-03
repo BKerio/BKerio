@@ -188,7 +188,7 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BKerio&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://ghchart.rshah.org/863e1e/BKerio" alt="Contribution Graph" />
 </p>
 
 <p align="center">
