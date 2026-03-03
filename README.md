@@ -192,11 +192,6 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BKerio&theme=dark&layout=compact&hide_border=true" />
-</p>
-
-
-<p align="center">
   <a href="https://github.com/BKerio">
   <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" 
        alt="Profile Views" />
