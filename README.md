@@ -56,14 +56,14 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 * Implemented a microservice architecture reducing downtime by 25%.
 * Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
 
-### 🎓 University Financial Management System *(Aug 2024)*
+### 🎓 University Financial Management System
 **Tech Stack:** `Node.js` | `MongoDB` | `React`
 * Built a platform supporting 2,000+ students with real-time M-Pesa fee payments.
 * Developed analytics dashboards reducing manual accounting workload by 50%.
 * Implemented JWT authentication and role-based authorization.
 * Improved API response time by 30% through query optimization and caching.
 
-### 🤖 Autonomous AI Agent *(Feb 2024)*
+### 🤖 Autonomous AI Agent 
 **Tech Stack:** `Python FastAPI` | `Node.js` | `React` | `Ollama` | `Llama 3.2` | `MongoDB`
 * Built an AI agent using Llama 3.2 for automated WhatsApp, Email, and SMS communications.
 * Implemented a RAG pipeline improving response relevance by 38%.
