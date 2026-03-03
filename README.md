@@ -195,20 +195,10 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
   <img src="https://nirzak-streak-stats.vercel.app/?user=BKerio&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BKerio&theme=dark&layout=compact&hide_border=true" />
-</p> -->
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BKerio&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BKerio&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BKerio&show_icons=true" />
-</picture>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/BKerio">
