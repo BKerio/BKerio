@@ -201,6 +201,7 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 
 <p align="center">
   <a href="https://github.com/BKerio">
-    <img src="https://visitcount.itsvg.in/api?id=BKerio&icon=0&color=0" alt="Visit Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" 
+       alt="Profile Views" />
+</a>
 </p>
