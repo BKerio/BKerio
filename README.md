@@ -196,7 +196,7 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKerio&theme=dark&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BKerio&theme=dark&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
