@@ -188,10 +188,6 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/863e1e/BKerio" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=BKerio&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
