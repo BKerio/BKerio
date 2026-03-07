@@ -1,16 +1,23 @@
-<div align="center">
+██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗    ██╗  ██╗███████╗██████╗ ██╗ ██████╗ 
+██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║    ██║ ██╔╝██╔════╝██╔══██╗██║██╔═══██╗
+██████╔╝██████╔╝██║███████║██╔██╗ ██║    █████╔╝ █████╗  ██████╔╝██║██║   ██║
+██╔══██╗██╔══██╗██║██╔══██║██║╚██╗██║    ██╔═██╗ ██╔══╝  ██╔══██╗██║██║   ██║
+██████╔╝██║  ██║██║██║  ██║██║ ╚████║    ██║  ██╗███████╗██║  ██║██║╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=200&section=header&text=Brian%20Kerio&fontSize=60&fontColor=372115&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Researcher&descAlignY=55&descSize=20"/>
+&lt;div align="center"&gt;
+
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=200&section=header&text=Software%20Engineer%20%7C%20AI%2FML%20Researcher&fontSize=40&fontColor=372115&animation=fadeIn&fontAlignY=35&desc=Building%20intelligent%20systems%20that%20scale&descAlignY=60&descSize=18"/&gt;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Crafting+scalable+web+solutions...;Exploring+the+frontiers+of+AI...;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Research-d79157?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-863e1e?style=for-the-badge" alt="Status" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" /&gt;
+  &lt;img src="https://img.shields.io/badge/Focus-AI%2FML%20Research-d79157?style=for-the-badge" alt="Focus" /&gt;
+  &lt;img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-863e1e?style=for-the-badge" alt="Status" /&gt;
+&lt;/p&gt;
 
-</div>
+&lt;/div&gt;
 
 ---
 
@@ -20,23 +27,23 @@ I am a software engineer focused on building scalable, intelligent systems that 
 
 Currently building **Dyniq**, a Dynamic Intelligence initiative focused on developing practical AI-powered solutions.
 
-<br>
+&lt;br&gt;
 
 ## 🌐 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/BrianKerio">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/@realbrianKerio">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-  <a href="mailto:briankerio47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://briankerio.me">
-    <img src="https://img.shields.io/badge/Website-863e1e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-</p>
+&lt;p&gt;
+  &lt;a href="https://linkedin.com/in/BrianKerio"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"&gt;
+  &lt;/a&gt;
+  &lt;a href="https://x.com/@realbrianKerio"&gt;
+    &lt;img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:briankerio47@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"&gt;
+  &lt;/a&gt;
+  &lt;a href="https://briankerio.me"&gt;
+    &lt;img src="https://img.shields.io/badge/Website-863e1e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
@@ -187,20 +194,20 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BKerio&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=BKerio&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BKerio&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://nirzak-streak-stats.vercel.app/?user=BKerio&theme=dark&hide_border=false" alt="GitHub Streak" /&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKerio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKerio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <a href="https://github.com/BKerio">
-    <img src="https://visitcount.itsvg.in/api?id=BKerio&icon=0&color=0" alt="Visit Count" />
-  </a>
-</p>
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/BKerio"&gt;
+    &lt;img src="https://visitcount.itsvg.in/api?id=BKerio&icon=0&color=0" alt="Visit Count" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
