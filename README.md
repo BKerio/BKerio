@@ -194,8 +194,3 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=BKerio&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKerio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
