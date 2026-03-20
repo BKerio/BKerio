@@ -182,7 +182,6 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-https://camo.githubusercontent.com/1d5fbf71150d809ed14251f1f14847ecbbe4ad6d8df4ce072df87bbdc06d81d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436c617564652d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d616e7468726f706963266c6f676f436f6c6f723d7768697465
 
 ---
 
