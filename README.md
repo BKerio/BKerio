@@ -42,34 +42,34 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 
 ## 💼 Featured Projects
 
-### ⛪ My Kanisa Application
+### ⚡ Token Pap *(February 2026)*
+**Tech Stack:** `Laravel PHP` | `MongoDB` | `Flutter` | `React` | `Africa's Talking API (USSD)` `CentOS 10` `Nginx Server`
+* Developed a token generation system processing 5,000+ monthly utility requests.
+* Designed a secure validation algorithm minimizing fraud by 30%.
+* Implemented a microservice architecture reducing downtime by 25%.
+* Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
+
+### ⛪ My Kanisa Application *(November 2025)*
 **Tech Stack:** `Laravel PHP` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `M-Pesa Daraja API`
 * Architected a full-stack system serving 1,000+ members with role-based access control.
 * Integrated M-Pesa payments, increasing giving efficiency by 65%.
 * Implemented bulk SMS and WhatsApp broadcasts, reducing communication costs by 40%.
 * Designed RESTful APIs handling 10,000+ monthly transactions with optimized MySQL indexing.
 
-### ⚡ Token Pap
-**Tech Stack:** `Laravel PHP` | `MongoDB` | `Flutter` | `React` | `Africa's Talking API (USSD)`
-* Developed a token generation system processing 5,000+ monthly utility requests.
-* Designed a secure validation algorithm minimizing fraud by 30%.
-* Implemented a microservice architecture reducing downtime by 25%.
-* Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
-
-### 🎓 University Financial Management System *(Aug 2024)*
+### 🎓 University Financial Management System *(Aug 2025)*
 **Tech Stack:** `Node.js` | `MongoDB` | `React`
 * Built a platform supporting 2,000+ students with real-time M-Pesa fee payments.
 * Developed analytics dashboards reducing manual accounting workload by 50%.
 * Implemented JWT authentication and role-based authorization.
 * Improved API response time by 30% through query optimization and caching.
 
-### 🤖 Autonomous AI Agent *(Feb 2024)*
+### 🤖 Autonomous AI Agent *(July 2025)*
 **Tech Stack:** `Python FastAPI` | `Node.js` | `React` | `Ollama` | `Llama 3.2` | `MongoDB`
 * Built an AI agent using Llama 3.2 for automated WhatsApp, email, and SMS communications.
 * Implemented a RAG pipeline improving response relevance by 38%.
 * Automated responses, cutting support workload by 55%.
 
-### 🛒 M-Duka E-Commerce
+### 🛒 M-Duka E-Commerce *(May 2025)*
 **Tech Stack:** `Python Django` | `React` | `Flutter` | `M-Pesa Daraja API` | `Bulk SMS`
 * Engineered a multi-vendor system for 500+ products and 1,000+ users.
 * Integrated M-Pesa with a 99% transaction success rate.
