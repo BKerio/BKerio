@@ -109,6 +109,9 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0044FF?style=for-the-badge&logo=llama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=claude&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -187,9 +190,17 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BKerio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-</p> -->
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKerio&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=BKerio&theme=dark&hide_border=false" alt="GitHub Streak" />
