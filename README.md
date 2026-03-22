@@ -117,6 +117,7 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama-0044FF?style=for-the-badge&logo=llama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
