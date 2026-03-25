@@ -16,9 +16,30 @@
 
 ## 🚀 About Me
 
-I am a software engineer focused on building scalable, intelligent systems that solve real-world problems. My interests span artificial intelligence, distributed systems, embedded hardware integration, and high-performance backend architectures. I enjoy turning complex ideas into production-ready applications, from cloud APIs to hardware-controlled systems.
+I design and build intelligent systems that connect software, AI, and real-world infrastructure.
 
-Currently building **Dyniq**, a Dynamic Intelligence initiative focused on developing practical AI-powered solutions.
+As the founder of **Dyniq**, I focus on developing dynamic intelligence solutions across fintech, automation, and machine learning. My goal is to create systems that are not just functional, but adaptive, scalable, and impactful.
+
+My core areas of work include:
+• Artificial Intelligence & Machine Learning
+• Real-time payment systems (M-Pesa STK Push, B2C integrations)
+• IoT & embedded systems (ESP32, automation)
+• Full-stack development (Node.js, React, MongoDB)
+
+I’ve built systems that:
+→ Process real-time transactions and track payment status dynamically
+→ Integrate hardware with backend services for automated workflows
+→ Provide dashboards with live analytics and decision insights
+
+I’m especially interested in solving practical problems across Africa using:
+→ AI + Fintech
+→ Intelligent automation
+→ Scalable backend systems
+
+Currently building at the intersection of intelligent payments, real-time systems, and machine learning.
+
+Open to collaborations, partnerships, and opportunities to build impactful technology.
+
 
 <br>
 
