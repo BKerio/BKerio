@@ -214,5 +214,5 @@ Currently building **Dyniq**, a Dynamic Intelligence initiative focused on devel
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BKerio&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=BKerio&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
