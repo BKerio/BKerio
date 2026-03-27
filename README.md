@@ -69,7 +69,7 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 
 ## 💼 Featured Projects
 
-### ⚡ Token Pap *(February 2026)
+### ⚡ Token Pap *(February 2026)*
 **Tech Stack:** `Laravel PHP` | `MongoDB` | `Flutter` | `React` | `Africa's Talking API (USSD)` | `CentOS 10` | `Nginx`  
 🌐 **Live:** http://tokenpap.com/
 
