@@ -223,7 +223,9 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BKerio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=BKerio&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
