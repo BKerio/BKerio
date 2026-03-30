@@ -220,7 +220,7 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <!--GitHub Stats (Reliable Mirrors) -->
 <p align="center">
