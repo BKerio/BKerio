@@ -43,7 +43,7 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 
 <br>
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me via
 <p>
   <a href="https://linkedin.com/in/BrianKerio">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
