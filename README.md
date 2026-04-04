@@ -23,7 +23,7 @@ As the founder of **Dyniq Africa Limited**, I focus on developing dynamic intell
 My core areas of work include:
 • Artificial Intelligence & Machine Learning
 • Real-time payment systems (M-Pesa STK Push, B2C integrations)
-• IoT & embedded systems (ESP32, automation)
+• IoT & embedded systems (ESP32, Arduino Uno R3, automation)
 • Full-stack development (Frontend + Backend + Infrustructure)
 
 I’ve built systems that:
