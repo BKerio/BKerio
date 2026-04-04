@@ -71,7 +71,7 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 
 ### ⚡ Token Pap *(February 2026)*
 **Tech Stack:** `Laravel PHP` | `MongoDB` | `Flutter` | `React` | `Africa's Talking API (USSD)` | `CentOS 10` | `Nginx`  
-🌐 **Live:** http://tokenpap.com/
+🌐 **Live:** http://api.tokenpap.com/
 
 * Developed a token generation system processing 5,000+ monthly utility requests.
 * Designed a secure validation algorithm minimizing fraud by 30%.
