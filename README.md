@@ -18,7 +18,7 @@
 
 I design and build intelligent systems that connect software, AI, and real-world infrastructure.
 
-As the founder of **Dyniq**, I focus on developing dynamic intelligence solutions across fintech, automation, and machine learning. My goal is to create systems that are not just functional, but adaptive, scalable, and impactful.
+As the founder of **Dyniq Africa Limited**, I focus on developing dynamic intelligence solutions across fintech, automation, and machine learning. My goal is to create systems that are not just functional, but adaptive, scalable, and impactful.
 
 My core areas of work include:
 • Artificial Intelligence & Machine Learning
