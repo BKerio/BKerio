@@ -164,6 +164,7 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge&logo=webhook&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
