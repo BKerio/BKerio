@@ -70,7 +70,7 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 ## 💼 Featured Projects
 
 ### ⚡ Token Pap *(February 2026)*
-**Tech Stack:** `Laravel PHP` | `MongoDB` | `Flutter` | `React` | `Africa's Talking API (USSD)` | `CentOS 10` | `Nginx`  
+**Tech Stack:** `Laravel` | `MongoDB` | `Flutter` | `React` | `Africa's Talking API (USSD)` | `CentOS 10` | `Nginx`  
 🌐 **Live:** http://api.tokenpap.com/
 
 * Developed a token generation system processing 5,000+ monthly utility requests.
@@ -79,14 +79,14 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 * Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
 
 ### ⛪ My Kanisa Application *(November 2025)*
-**Tech Stack:** `Laravel PHP` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `M-Pesa Daraja API`
+**Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `M-Pesa Daraja API`
 * Architected a full-stack system serving 1,000+ members with role-based access control.
 * Integrated M-Pesa payments, increasing giving efficiency by 65%.
 * Implemented bulk SMS and WhatsApp broadcasts, reducing communication costs by 40%.
 * Designed RESTful APIs handling 10,000+ monthly transactions with optimized MySQL indexing.
 
 ### 🎓 University Financial Management System *(Aug 2025)*
-**Tech Stack:** `Node.js` | `MongoDB` | `React`
+**Tech Stack:** `Express` | `MongoDB` | `React`
 * Built a platform supporting 2,000+ students with real-time M-Pesa fee payments.
 * Developed analytics dashboards reducing manual accounting workload by 50%.
 * Implemented JWT authentication and role-based authorization.
