@@ -93,7 +93,7 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 * Improved API response time by 30% through query optimization and caching.
 
 ### 🤖 Autonomous AI Agent *(July 2025)*
-**Tech Stack:** `Python FastAPI` | `Node.js` | `React` | `Ollama` | `Llama 3.2` | `MongoDB` | `Redis`
+**Tech Stack:** `FastAPI` | `Node.js` | `React` | `Ollama` | `Llama 3.2` | `MongoDB` | `Redis`
 * Built an AI agent using Llama 3.2 for automated WhatsApp, email, and SMS communications.
 * Implemented a RAG pipeline improving response relevance by 38%.
 * Automated responses, cutting support workload by 55%.
