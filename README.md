@@ -99,7 +99,7 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 * Automated responses, cutting support workload by 55%.
 
 ### 🛒 M-Duka E-Commerce *(May 2025)*
-**Tech Stack:** `Python Django` | `React` | `Flutter` | `M-Pesa Daraja API` | `Bulk SMS`
+**Tech Stack:** `Django` | `React` | `Flutter` | `M-Pesa Daraja API` | `Bulk SMS`
 * Engineered a multi-vendor system for 500+ products and 1,000+ users.
 * Integrated M-Pesa with a 99% transaction success rate.
 * Optimized PostgreSQL queries, cutting checkout latency by 32%.
