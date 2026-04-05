@@ -113,7 +113,7 @@ Open to collaborations, partnerships, and opportunities to build impactful techn
 * Reduced reporting delays by 60% via centralized analytics.
 
 ### 🎱 Pool Pay System
-**Tech Stack:** `Node.js` | `React` | `Arduino ESP32` | `M-Pesa Daraja API`
+**Tech Stack:** `Express` | `React` | `Arduino ESP32` | `M-Pesa Daraja API`
 * Engineered an IoT payment solution with ESP32 and M-Pesa integration.
 * Processed 1,500+ transactions with secure validation.
 * Reduced cash handling errors by 80%.
