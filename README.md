@@ -16,29 +16,7 @@
 
 ## 🚀 About Me
 
-I design and build intelligent systems that connect software, AI, and real-world infrastructure.
-
-As the founder of **Dyniq Africa Limited**, I focus on developing dynamic intelligence solutions across fintech, automation, and machine learning. My goal is to create systems that are not just functional, but adaptive, scalable, and impactful.
-
-My core areas of work include:
-• Artificial Intelligence & Machine Learning
-• Real-time payment systems (M-Pesa STK Push, B2C integrations)
-• IoT & embedded systems (ESP32, Arduino Uno R3, automation)
-• Full-stack development (Frontend + Backend + Infrustructure)
-
-I’ve built systems that:
-→ Process real-time transactions and track payment status dynamically
-→ Integrate hardware with backend services for automated workflows
-→ Provide dashboards with live analytics and decision insights
-
-I’m especially interested in solving practical problems across Africa using:
-→ AI + Fintech
-→ Intelligent automation
-→ Scalable backend systems
-
-Currently building at the intersection of intelligent payments, real-time systems, and machine learning.
-
-Open to collaborations, partnerships, and opportunities to build impactful technology.
+I design and build intelligent systems that connect AI, fintech, and automation with real-world infrastructure. I develop scalable solutions that enable real-time payments, integrate IoT and embedded devices, and deliver actionable, data-driven insights. My work focuses on creating practical, impactful technology that addresses real challenges across Africa.
 
 
 <br>
