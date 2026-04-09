@@ -83,7 +83,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 * Optimized PostgreSQL queries, cutting checkout latency by 32%.
 
 ### 📋 Enterprise Task Management App
-**Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps API` | `Node-Cron`
+**Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps` | `Node-Cron`
 
 🌐 **Live:** https://task.elegancedesigners.com/
 * Developed a real-time system for 50+ employees across two companies.
