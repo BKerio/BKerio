@@ -129,6 +129,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 ![Llama](https://img.shields.io/badge/Llama-0044FF?style=for-the-badge&logo=llama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-AI-1E293B?style=for-the-badge&logo=ai&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
