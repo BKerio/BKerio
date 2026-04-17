@@ -124,7 +124,6 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama-0044FF?style=for-the-badge&logo=llama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=claude&logoColor=white)
