@@ -85,7 +85,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 ### 📋 Enterprise Task Management App
 **Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps` | `Node-Cron`
 
-🌐 **Live:** https://task.elegancedesigners.com/
+🌐 **Live:** https://task.elegancedesigners.com
 * Developed a real-time system for 50+ employees across two companies.
 * Implemented GPS tracking, improving field monitoring by 45%.
 * Reduced reporting delays by 60% via centralized analytics.
