@@ -57,7 +57,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 * Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
 
 ### ⛪ My Kanisa Application *(November 2025)*
-**Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `M-Pesa Daraja API`
+**Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `Daraja API`
 * Architected a full-stack system serving 1,000+ members with role-based access control.
 * Integrated M-Pesa payments, increasing giving efficiency by 65%.
 * Implemented bulk SMS and WhatsApp broadcasts, reducing communication costs by 40%.
