@@ -49,6 +49,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 
 ### ⚡ Token Pap *(February 2026)*
 **Tech Stack:** `Laravel` | `MongoDB` | `Flutter` | `React` | `CentOS 10` | `Nginx` | `Daraja API` 
+
 🌐 **Live:** https://app.tokenpap.com
 
 * Developed a token generation system processing 5,000+ monthly utility requests.
