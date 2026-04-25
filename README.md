@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Robotics-d79157?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Internet of Things-d79157?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-863e1e?style=for-the-badge" alt="Status" />
 </p>
 
