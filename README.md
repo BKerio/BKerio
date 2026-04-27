@@ -92,7 +92,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 * Reduced reporting delays by 60% via centralized analytics.
 
 ### 🎱 Pool Pay System
-**Tech Stack:** `Express` | `React` | `Arduino ESP32` | `Daraja API` | `C++`
+**Tech Stack:** `Express` | `C++` | `React` | `Arduino ESP32` | `Daraja API`
 * Engineered an IoT payment solution with ESP32 and M-Pesa integration.
 * Processed 1,500+ transactions with secure validation.
 * Reduced cash handling errors by 80%.
