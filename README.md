@@ -38,7 +38,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
   <a href="mailto:briankerio47@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://briankerio.com">
+  <a href="https://briankerio.ai">
     <img src="https://img.shields.io/badge/Website-863e1e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
