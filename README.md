@@ -21,7 +21,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 
 <br>
 
-## 🌐 Connect with Me via
+## Connect with Me via
 <p>
   <a href="https://linkedin.com/in/BrianKerio">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
