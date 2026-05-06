@@ -57,7 +57,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 * Implemented a microservice architecture reducing downtime by 25%.
 * Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
 
-### ⛪ My Kanisa *(November 2025)*
+### ⛪ My Kanisa app *(November 2025)*
 **Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `Daraja API`
 
 🌐 **Live:** http://34.176.145.247/mykanisa
