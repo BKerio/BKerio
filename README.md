@@ -67,13 +67,6 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 * Implemented bulk SMS and WhatsApp broadcasts, reducing communication costs by 40%.
 * Designed RESTful APIs handling 10,000+ monthly transactions with optimized MySQL indexing.
 
-### 🎓 University Financial Management System *(Aug 2025)*
-**Tech Stack:** `Express` | `MongoDB` | `React`
-* Built a platform supporting 2,000+ students with real-time M-Pesa fee payments.
-* Developed analytics dashboards reducing manual accounting workload by 50%.
-* Implemented JWT authentication and role-based authorization.
-* Improved API response time by 30% through query optimization and caching.
-
 ### 🤖 Autonomous AI Agent *(July 2025)*
 **Tech Stack:** `FastAPI` | `Express` | `React` | `Ollama` | `Llama 3.2` | `MongoDB` | `Redis`
 * Built an AI agent using Llama 3.2 for automated WhatsApp, email, and SMS communications.
