@@ -47,7 +47,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 
 ## 💼 Featured Projects
 
-### ⚡ TokenPap *(February 2026)*
+### ⚡ Tokenpap *(February 2026)*
 **Tech Stack:** `Laravel` | `MongoDB` | `Flutter` | `React` | `CentOS 10` | `Nginx` | `Daraja API` 
 
 🌐 **Live:** https://app.tokenpap.com
