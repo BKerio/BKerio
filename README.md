@@ -87,7 +87,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 * Implemented GPS tracking, improving field monitoring by 45%.
 * Reduced reporting delays by 60% via centralized analytics.
 
-### 🎱 Pool Pay System
+### 🎱 Pool Pay System *(April 2025)*
 **Tech Stack:** `Express` | `C++` | `React` | `Arduino ESP32(WiFi)` | `Daraja API`
 * Engineered an IoT payment solution with ESP32 and M-Pesa integration.
 * Processed 1,500+ transactions with secure validation.
