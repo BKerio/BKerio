@@ -79,7 +79,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 * Integrated M-Pesa with a 99% transaction success rate.
 * Optimized PostgreSQL queries, cutting checkout latency by 32%.
 
-### 📋 Enterprise Task Management App
+### 📋 Enterprise Task Management App *(April 2025)*
 **Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps` | `Node-Cron`
 
 🌐 **Live:** https://task.elegancedesigners.com
