@@ -60,7 +60,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 ### ⛪ My Kanisa app *(November 2025)*
 **Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `Daraja API`
 
-🌐 **Live:** http://34.176.145.247/mykanisa
+🌐 **Live:** http://34.176.145.247/mykanisa/
 
 * Architected a full-stack system serving 1,000+ members with role-based access control.
 * Integrated M-Pesa payments, increasing giving efficiency by 65%.
