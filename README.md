@@ -93,6 +93,19 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 * Processed 1,500+ transactions with secure validation.
 * Reduced cash handling errors by 80%.
 
+### 🤖 Millenium WhatsApp AI Assistant *(June 2026)*
+
+**Tech Stack:** `WhatsApp Cloud API` | `FastAPI` | `Node.js` | `React` | `MongoDB` | `Redis` | `OpenAI/Gemini` | `RAG` | `M-Pesa Daraja API`
+
+* Developed an enterprise-grade AI-powered WhatsApp assistant for customer support, lead generation, and service automation.
+* Integrated WhatsApp Cloud API to enable real-time customer interactions, automated workflows, and intelligent conversation routing.
+* Built a Retrieval-Augmented Generation (RAG) system using company knowledge bases, improving response accuracy and contextual relevance.
+* Integrated M-Pesa STK Push payments directly within WhatsApp conversations, allowing customers to initiate and complete payments without leaving the chat.
+* Automated customer inquiries and payment workflows, reducing support response times by over 70%.
+* Implemented secure payment validation, transaction tracking, and automated payment confirmations through WhatsApp.
+* Designed a scalable webhook and queue-based architecture capable of handling thousands of monthly customer interactions and transactions.
+* Integrated CRM and ticketing workflows, enabling seamless lead capture, support management, and sales automation.
+
 ---
 
 ## 💻 Tech Stack
