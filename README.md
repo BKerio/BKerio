@@ -16,7 +16,7 @@
 
 ## About Me
 
-I design and build intelligent systems that connect AI, fintech, and automation with real-world infrastructure. I develop scalable solutions that enable real-time payments, integrate IoT and embedded devices, and deliver actionable, data-driven insights. My work focuses on creating practical, impactful technology that addresses real challenges across East Africa..
+I design and build intelligent systems that connect AI, fintech, and automation with real-world infrastructure. I develop scalable solutions that enable real-time payments, integrate IoT and embedded devices, and deliver actionable, data-driven insights. My work focuses on creating practical, impactful technology that addresses real challenges across East Africa.
 
 
 <br>
