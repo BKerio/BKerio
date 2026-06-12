@@ -1,236 +1,394 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=220&section=header&text=Brian%20Kerio&fontSize=70&fontColor=f4da90&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=55&descSize=22&descColor=d79157"/>
+https://git.io/typing-svg
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=200&section=header&text=Brian%20Kerio&fontSize=60&fontColor=372115&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20%Machine%20Learning%20Engineer.&descAlignY=55&descSize=20"/>
+<!-- Stat Cards Row -->
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td align="center" width="160">
+            <img src="https://img.shields.io/badge/15%2B-PROJECTS%20DELIVERED-0d0d0d?style=for-the-badge&logo=rocket&logoColor=f4da90&labelColor=1a0f00&color=0d0d0d&borderColor=d79157" alt="15+ Projects"/>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="160">
+            <img src="https://img.shields.io/badge/5000%2B-TRANSACTIONS%20PROCESSED-0d0d0d?style=for-the-badge&logo=chart-bar&logoColor=d79157&labelColor=1a0f00&color=0d0d0d" alt="5000+ Transactions"/>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="160">
+            <img src="https://img.shields.io/badge/AI%20%2B%20IoT-INTELLIGENT%20SOLUTIONS-0d0d0d?style=for-the-badge&logo=brain&logoColor=863e1e&labelColor=1a0f00&color=0d0d0d" alt="AI + IoT"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/BUILDING%20INTELLIGENT%20SYSTEMS%20FOR%20AFRICA-d79157?style=for-the-badge&logoColor=f4da90&color=0d0d0d" width="400"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🌍-KENYA%20%7C%20EAST%20AFRICA-863e1e?style=for-the-badge&color=1a0f0a" width="200"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/⚡-FULL%20STACK%20DEVELOPER-d79157?style=for-the-badge&color=1a0f0a" width="200"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🤖-MACHINE%20LEARNING%20ENGINEER-d79157?style=for-the-badge&color=1a0f0a" width="220"/>
+    </td>
+    <td width="30"></td>
+    <td>
+      <table>
+        <tr>
+          <td align="center" width="160">
+            <img src="https://img.shields.io/badge/EAST%20AFRICA-FOCUSED-0d0d0d?style=for-the-badge&logo=location&logoColor=f4da90&labelColor=1a0f00&color=0d0d0d" alt="East Africa"/>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="160">
+            <img src="https://img.shields.io/badge/%3C%2F%3E-FULL%20STACK%20DEVELOPER-0d0d0d?style=for-the-badge&logo=code&logoColor=d79157&labelColor=1a0f00&color=0d0d0d" alt="Full Stack"/>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="160">
+            <img src="https://img.shields.io/badge/⚙️-MACHINE%20LEARNING%20ENGINEER-0d0d0d?style=for-the-badge&logo=chip&logoColor=863e1e&labelColor=1a0f00&color=0d0d0d" alt="ML Engineer"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Crafting+scalable+web+solutions...;Exploring+the+frontiers+of+AI...;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
+<!-- Tech Domain Orbit -->
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/🧠-AI%20%2F%20ML-1a0f00?style=flat-square&color=1a0f00" width="100"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/💰-FINTECH-1a0f00?style=flat-square&color=1a0f00" width="100"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/☁️-CLOUD%20COMPUTING-1a0f00?style=flat-square&color=1a0f00" width="100"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/🗄️-DATA%20%26%20ANALYTICS-1a0f00?style=flat-square&color=1a0f00" width="100"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/🤖-ROBOTICS-1a0f00?style=flat-square&color=1a0f00" width="100"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/📡-IoT%20%26%20EMBEDDED-1a0f00?style=flat-square&color=1a0f00" width="100"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/💻-SOFTWARE%20ENGINEERING-1a0f00?style=flat-square&color=1a0f00" width="100"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Internet of Things-d79157?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-863e1e?style=for-the-badge" alt="Status" />
-</p>
+<!-- About Me Section -->
+<img src="https://img.shields.io/badge/👤%20About%20Me-0d0d0d?style=for-the-badge&color=0d0d0d" width="100%"/>
+plain
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  I design and build intelligent systems that connect AI, fintech, and       │
+│  automation with real-world infrastructure. I develop scalable solutions    │
+│  that enable real-time payments, integrate IoT and embedded devices,      │
+│  and deliver actionable, data-driven insights. My work focuses on creating │
+│  practical, impactful technology that addresses real challenges across      │
+│  East Africa.                                                               │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 
-</div>
+<!-- Status Cards -->
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/👁️%20Profile%20Views-25K%2B-d79157?style=for-the-badge&labelColor=0d0d0d&color=1a0f00" width="180"/>
+    </td>
+    <td width="20"></td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🎯%20Focus-Machine%20Learning%20%26%20IoT-d79157?style=for-the-badge&labelColor=0d0d0d&color=1a0f00" width="220"/>
+    </td>
+    <td width="20"></td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collaborate-d79157?style=for-the-badge&labelColor=0d0d0d&color=1a0f00" width="200"/>
+    </td>
+  </tr>
+</table>
 
----
+<!-- Connect Section -->
+<img src="https://img.shields.io/badge/🔗%20Connect%20with%20Me-0d0d0d?style=for-the-badge&color=0d0d0d" width="100%"/>
 
-## About Me
-
-I design and build intelligent systems that connect AI, fintech, and automation with real-world infrastructure. I develop scalable solutions that enable real-time payments, integrate IoT and embedded devices, and deliver actionable, data-driven insights. My work focuses on creating practical, impactful technology that addresses real challenges across East Africa.
-
-
-<br>
-
-## Connect with Me via
 <p>
   <a href="https://linkedin.com/in/BrianKerio">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0d0d0d&labelColor=1a0f00" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/@realbrianKerio">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=d79157&color=0d0d0d&labelColor=1a0f00" alt="X"/>
   </a>
-  <a href="https://www.tiktok.com/@realbriankerio?_r=1&_t=ZS-94jHtaTLyc8">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  <a href="https://www.tiktok.com/@realbriankerio">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=863e1e&color=0d0d0d&labelColor=1a0f00" alt="TikTok"/>
   </a>
   <a href="https://wa.me/254717000480">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=f4da90&color=0d0d0d&labelColor=1a0f00" alt="WhatsApp"/>
   </a>
   <a href="mailto:briankerio47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=d79157&color=0d0d0d&labelColor=1a0f00" alt="Email"/>
   </a>
   <a href="https://briankerio.com">
-    <img src="https://img.shields.io/badge/Website-863e1e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-863e1e?style=for-the-badge&logo=google-chrome&logoColor=f4da90&color=0d0d0d&labelColor=1a0f00" alt="Website"/>
   </a>
 </p>
+</div>
+💼 Featured Projects
+⚡ Tokenpap (February 2026)
+Tech Stack: Laravel | MongoDB | Flutter | React | CentOS 10 | Nginx | Daraja API
+🌐 Live: https://app.tokenpap.com
+Developed a token generation system processing 5,000+ monthly utility requests.
+Designed a secure validation algorithm minimizing fraud by 30%.
+Implemented a microservice architecture reducing downtime by 25%.
+Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
+⛪ My Kanisa app (November 2025)
+Tech Stack: Laravel | MySQL | React | Flutter | Bulk SMS | Daraja API
+🌐 Live: http://34.176.145.247/mykanisa
+Architected a full-stack system serving 1,000+ members with role-based access control.
+Integrated M-Pesa payments, increasing giving efficiency by 65%.
+Implemented bulk SMS and WhatsApp broadcasts, reducing communication costs by 40%.
+Designed RESTful APIs handling 10,000+ monthly transactions with optimized MySQL indexing.
+🤖 Autonomous AI Agent (July 2025)
+Tech Stack: FastAPI | Express | React | Ollama | Llama 3.2 | MongoDB | Redis
+Built an AI agent using Llama 3.2 for automated WhatsApp, email, and SMS communications.
+Implemented a RAG pipeline improving response relevance by 38%.
+Automated responses, cutting support workload by 55%.
+🛒 M-Duka e-Commerce (May 2025)
+Tech Stack: Django | React | Flutter | Postgres SQL | M-Pesa Daraja API | Bulk SMS
+Engineered a multi-vendor system for 500+ products and 1,000+ users.
+Integrated M-Pesa with a 99% transaction success rate.
+Optimized PostgreSQL queries, cutting checkout latency by 32%.
+📋 Enterprise Task Management App (April 2025)
+Tech Stack: Express | MongoDB | React | Flutter | Google Maps | Node-Cron
+🌐 Live: https://task.elegancedesigners.com
+Developed a real-time system for 50+ employees across two companies.
+Implemented GPS tracking, improving field monitoring by 45%.
+Reduced reporting delays by 60% via centralized analytics.
+🎱 Pool Pay System (April 2025)
+Tech Stack: Express | C++ | React | Arduino ESP32(WiFi) | Daraja API
+Engineered an IoT payment solution with ESP32 and M-Pesa integration.
+Processed 1,500+ transactions with secure validation.
+Reduced cash handling errors by 80%.
+🤖 Millenium WhatsApp AI Assistant (June 2026)
+Tech Stack: WhatsApp Cloud API | Node.js | MongoDB | OpenAI/Gemini | RAG | M-Pesa Daraja API
+Built an AI-powered WhatsApp assistant for customer support, lead generation, and service automation.
+Integrated M-Pesa STK Push payments with automated transaction validation and confirmations.
+Implemented a RAG pipeline to deliver accurate, context-aware responses from company knowledge bases.
+Automated customer interactions, reducing response times and improving service efficiency.
+💻 Tech Stack
+🌍 Programming Languages
+ Python 
 
----
+ C++ 
 
-## 💼 Featured Projects
+ Dart 
 
-### ⚡ Tokenpap *(February 2026)*
-**Tech Stack:** `Laravel` | `MongoDB` | `Flutter` | `React` | `CentOS 10` | `Nginx` | `Daraja API` 
+ JavaScript 
 
-🌐 **Live:** https://app.tokenpap.com
+ Kotlin 
 
-* Developed a token generation system processing 5,000+ monthly utility requests.
-* Designed a secure validation algorithm minimizing fraud by 30%.
-* Implemented a microservice architecture reducing downtime by 25%.
-* Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
+ PHP 
+🧠 Artificial Intelligence & Machine Learning
+ TensorFlow 
 
-### ⛪ My Kanisa app *(November 2025)*
-**Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `Daraja API`
+ PyTorch 
 
-🌐 **Live:** http://34.176.145.247/mykanisa
+ Keras 
 
-* Architected a full-stack system serving 1,000+ members with role-based access control.
-* Integrated M-Pesa payments, increasing giving efficiency by 65%.
-* Implemented bulk SMS and WhatsApp broadcasts, reducing communication costs by 40%.
-* Designed RESTful APIs handling 10,000+ monthly transactions with optimized MySQL indexing.
+ scikit-learn 
 
-### 🤖 Autonomous AI Agent *(July 2025)*
-**Tech Stack:** `FastAPI` | `Express` | `React` | `Ollama` | `Llama 3.2` | `MongoDB` | `Redis`
-* Built an AI agent using Llama 3.2 for automated WhatsApp, email, and SMS communications.
-* Implemented a RAG pipeline improving response relevance by 38%.
-* Automated responses, cutting support workload by 55%.
+ Pandas 
 
-### 🛒 M-Duka e-Commerce *(May 2025)*
-**Tech Stack:** `Django` | `React` | `Flutter` | `Postgres SQL` | `M-Pesa Daraja API` | `Bulk SMS` 
-* Engineered a multi-vendor system for 500+ products and 1,000+ users.
-* Integrated M-Pesa with a 99% transaction success rate.
-* Optimized PostgreSQL queries, cutting checkout latency by 32%.
+ NumPy 
 
-### 📋 Enterprise Task Management App *(April 2025)*
-**Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps` | `Node-Cron`
+ Matplotlib 
 
-🌐 **Live:** https://task.elegancedesigners.com
-* Developed a real-time system for 50+ employees across two companies.
-* Implemented GPS tracking, improving field monitoring by 45%.
-* Reduced reporting delays by 60% via centralized analytics.
+ Seaborn 
 
-### 🎱 Pool Pay System *(April 2025)*
-**Tech Stack:** `Express` | `C++` | `React` | `Arduino ESP32(WiFi)` | `Daraja API`
-* Engineered an IoT payment solution with ESP32 and M-Pesa integration.
-* Processed 1,500+ transactions with secure validation.
-* Reduced cash handling errors by 80%.
+ SciPy 
 
-### 🤖 Millenium WhatsApp AI Assistant *(June 2026)*
+ OpenCV 
 
-**Tech Stack:** `WhatsApp Cloud API` | `Node.js` | `MongoDB` | `OpenAI/Gemini` | `RAG` | `M-Pesa Daraja API`
+ Jupyter 
 
-* Built an AI-powered WhatsApp assistant for customer support, lead generation, and service automation.
-* Integrated M-Pesa STK Push payments with automated transaction validation and confirmations.
-* Implemented a RAG pipeline to deliver accurate, context-aware responses from company knowledge bases.
-* Automated customer interactions, reducing response times and improving service efficiency.
+ Plotly 
 
----
+ PyTorch Lightning 
 
-## 💻 Tech Stack
+ Hugging Face 
 
-### 🌍 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+ XGBoost 
 
-### 🧠 Artificial Intelligence & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2300A9E0.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-0044FF?style=for-the-badge&logo=llama&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Kimi](https://img.shields.io/badge/Kimi-AI-1E293B?style=for-the-badge&logo=ai&logoColor=white)
+ Ollama 
 
-### 🚀 Frameworks & Libraries
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge&logo=webhook&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
+ Llama 
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%23007ACC.svg?style=for-the-badge&logo=jira&logoColor=white)
+ Claude 
 
-### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+ OpenAI 
 
-### 🛠️ Hardware, Tools & UI
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+ Kimi 
+🚀 Frameworks & Libraries
+ Django 
 
----
+ FastAPI 
 
-## 📊 GitHub Statistics
+ NodeJS 
 
-<!--GitHub Stats (Reliable Mirrors) -->
+ Express.js 
+
+ Flask 
+
+ Laravel 
+
+ React 
+
+ Next JS 
+
+ React Native 
+
+ Flutter 
+
+ Expo 
+
+ TailwindCSS 
+
+ Vite 
+
+ Three js 
+
+ Web3.js 
+
+ Socket.io 
+
+ Deno JS 
+
+ React Router 
+
+ Webhooks 
+
+ LangChain 
+☁️ DevOps & Cloud
+ AWS 
+
+ Azure 
+
+ Google Cloud 
+
+ Alibaba Cloud 
+
+ Kubernetes 
+
+ Cloudflare 
+
+ Render 
+
+ Vercel 
+
+ Netlify 
+
+ Apache 
+
+ Nginx 
+
+ Git 
+
+ GitHub Actions 
+
+ GitLab CI 
+
+ GitHub 
+
+ GitLab 
+
+ Bitbucket 
+
+ Jira 
+🗄️ Databases
+ Postgres 
+
+ MongoDB 
+
+ MySQL 
+
+ Redis 
+
+ Amazon DynamoDB 
+
+ Snowflake 
+
+ SQLite 
+
+ Supabase 
+
+ Prisma 
+🛠️ Hardware, Tools & UI
+ Arduino 
+
+ Raspberry Pi 
+
+ ESP32 
+
+ ESP8266 
+
+ MQTT 
+
+ PlatformIO 
+
+ nVIDIA 
+
+ Cisco 
+
+ Ubiquiti 
+
+ Mosquitto 
+
+ Sentry 
+
+ Selenium 
+
+ Jasmine 
+
+ Twilio 
+
+ Jira 
+
+ Trello 
+
+ Meta 
+
+ Figma 
+
+ Adobe 
+
+ Framer 
+
+ Canva 
+
+ Proto.io 
+
+ NPM 
+
+ Nodemon 
+
+ JWT 
+📊 GitHub Statistics
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BKerio&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=BKerio&theme=highcontrast&hide_border=true&background=0d0d0d&ring=d79157&fire=863e1e&currStreakLabel=f4da90&sideLabels=d79157&currStreakNum=f4da90&sideNums=d79157&dates=666666&cache_seconds=86400" />
 </p>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BKerio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BKerio&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0d0d0d&title_color=d79157&icon_color=863e1e&text_color=f4da90&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d0d0d&title_color=d79157&text_color=f4da90" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKerio&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKerio&theme=highcontrast" />
 </p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:863e1e,50:d79157,100:f4da90&height=120&section=footer&text=Building%20Intelligent%20Systems%20for%20Africa&fontSize=24&fontColor=f4da90&animation=fadeIn"/>
+</div>
