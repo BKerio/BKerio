@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Crafting+scalable+web+solutions...;Exploring+the+frontiers+of+AI...;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Viewss" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Internet of Things-d79157?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-863e1e?style=for-the-badge" alt="Status" />
 </p>
