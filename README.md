@@ -1,47 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=200&section=header&text=Brian%20Kerio&fontSize=60&fontColor=372115&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20%Machine%20Learning%20Engineer.&descAlignY=55&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Crafting+scalable+web+solutions...;Exploring+the+frontiers+of+AI...;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Internet of Things-d79157?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-863e1e?style=for-the-badge" alt="Status" />
-</p>
-
-</div>
-
----
-
-## About Me
-
-I design and build intelligent systems that connect AI, fintech, and automation with real-world infrastructure. I develop scalable solutions that enable real-time payments, integrate IoT and embedded devices, and deliver actionable, data-driven insights. My work focuses on creating practical, impactful technology that addresses real challenges across East Africa.
-
-
-<br>
-
-## Connect with Me via
-<p>
-  <a href="https://linkedin.com/in/BrianKerio">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/@realbrianKerio">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-  <a href="https://www.tiktok.com/@realbriankerio?_r=1&_t=ZS-94jHtaTLyc8">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://wa.me/254717000480">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:briankerio47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://briankerio.com">
-    <img src="https://img.shields.io/badge/Website-863e1e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-</p>
 
 ---
 
