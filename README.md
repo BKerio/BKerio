@@ -26,7 +26,7 @@ I design and build intelligent systems that connect AI, fintech, and automation 
   <a href="https://linkedin.com/in/BrianKerio">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/@realbrianKerio">
+  <a href="https://x.com/@realbrianKerio">;
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
   <a href="https://www.tiktok.com/@realbriankerio?_r=1&_t=ZS-94jHtaTLyc8">
