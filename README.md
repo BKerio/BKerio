@@ -1,16 +1,8 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:f4da90,50:d79157,100:863e1e&height=120&section=header&text=Brian%20Kerio&fontSize=50&fontColor=372115&fontAlignY=55"/&gt;
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f4da90,50:d79157,100:863e1e&height=120&section=header&text=Brian%20Kerio&fontSize=50&fontColor=372115&fontAlignY=55"/>
 
-&lt;/div&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=flat-square&label=Profile+Views" alt="Profile Views" /&gt;
-  &lt;img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20IoT-d79157?style=flat-square" alt="Focus" /&gt;
-  &lt;img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-863e1e?style=flat-square" alt="Status" /&gt;
-&lt;/p&gt;
-
----
+</div>
 
 ## About Me
 
