@@ -25,22 +25,16 @@ My inspirations include [Michael Truell](https://x.com/mntruell), [Cursor](https
 ## Connect with Me via
 <p>
   <a href="https://linkedin.com/in/BrianKerio">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/@realbrianKerio">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-  <a href="https://www.tiktok.com/@realbriankerio?_r=1&_t=ZS-94jHtaTLyc8">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://wa.me/254717000480">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
   <a href="mailto:briankerio47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-black.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://briankerio.com">
-    <img src="https://img.shields.io/badge/Website-863e1e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-black.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
 
