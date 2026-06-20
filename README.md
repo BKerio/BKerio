@@ -16,30 +16,25 @@
 
 ## About Me
 
-I design and build intelligent systems that connect AI, fintech, and automation with real-world infrastructure. I develop scalable solutions that enable real-time payments, integrate IoT and embedded devices, and deliver actionable, data-driven insights. My work focuses on creating practical, impactful technology that addresses real challenges across East Africa.
-
+I am driving engineering and innovation at [Millenium Solutions E.A Ltd](https://www.millenium.co.ke/) to advance useful technology. In the past, I have worked on both algebraic and statistical mathematics research, LLM-driven recommendation systems, high-throughput drug pipelines, fintech platforms, embedded systems, and competitive programming.
+I studied CS and Math, with a minor in Physics, at Kenya Methodist University.
+My inspirations include [Michael Truell](https://x.com/mntruell), [Cursor](https://x.com/cursor_ai), [Elon Musk](https://x.com/elonmusk), [Andrej Karpathy](https://x.com/karpathy), [Ilya Sutskever](https://x.com/ilyasut), and [Sam Altman](https://x.com/sama) - individuals who push the boundaries of what seems impossible, and whose work has a profound impact on the world.
 
 <br>
 
 ## Connect with Me via
 <p>
   <a href="https://linkedin.com/in/BrianKerio">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/@realbrianKerio">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-  <a href="https://www.tiktok.com/@realbriankerio?_r=1&_t=ZS-94jHtaTLyc8">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://wa.me/254717000480">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
   <a href="mailto:briankerio47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-black.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://briankerio.com">
-    <img src="https://img.shields.io/badge/Website-863e1e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-black.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
 
@@ -233,4 +228,3 @@ I design and build intelligent systems that connect AI, fintech, and automation 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKerio&theme=tokyonight" />
 </p>
-
