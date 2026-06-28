@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=200&section=header&text=Brian%20Kerio&fontSize=60&fontColor=372115&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20%Problem%20Solver&descAlignY=55&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Crafting+scalable+web+solutions...;Exploring+the+frontiers+of+AI...;Turning+coffee+into+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Crafting+scalable+web+solutions...;Exploring+the+frontiers+of+AI...;Turning+coffee+into+code...)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
