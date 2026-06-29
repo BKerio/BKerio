@@ -62,12 +62,6 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 * Implemented bulk SMS and WhatsApp broadcasts, reducing communication costs by 40%.
 * Designed RESTful APIs handling 10,000+ monthly transactions with optimized MySQL indexing.
 
-### 🤖 Autonomous AI Agent *(July 2025)*
-**Tech Stack:** `FastAPI` | `Express` | `React` | `Ollama` | `Llama 3.2` | `MongoDB` | `Redis`
-* Built an AI agent using Llama 3.2 for automated WhatsApp, email, and SMS communications.
-* Implemented a RAG pipeline improving response relevance by 38%.
-* Automated responses, cutting support workload by 55%.
-
 ### 📋 Enterprise Task Management App *(April 2025)*
 **Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps` | `Node-Cron`
 
