@@ -68,12 +68,6 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 * Implemented a RAG pipeline improving response relevance by 38%.
 * Automated responses, cutting support workload by 55%.
 
-### 🛒 M-Duka e-Commerce *(May 2025)*
-**Tech Stack:** `Django` | `React` | `Flutter` | `Postgres SQL` | `M-Pesa Daraja API` | `Bulk SMS` 
-* Engineered a multi-vendor system for 500+ products and 1,000+ users.
-* Integrated M-Pesa with a 99% transaction success rate.
-* Optimized PostgreSQL queries, cutting checkout latency by 32%.
-
 ### 📋 Enterprise Task Management App *(April 2025)*
 **Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps` | `Node-Cron`
 
