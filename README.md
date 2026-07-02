@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Solving%20Problems%20%7C%20Machine%20Learning%20%26%20Internet%20of%20Things-d79157?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-863e1e?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Building-863e1e?style=for-the-badge" alt="Status" />
 </p>
 
 <pre style="font-family: 'Courier New', monospace; line-height: 1.2; color: #863e1e;">
