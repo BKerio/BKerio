@@ -1,65 +1,25 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=200&section=header&text=Brian%20Kerio&fontSize=60&fontColor=372115&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20Computer%20Scientist%20%3A%29&descAlignY=55&descSize=20"/&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=200&section=header&text=Brian%20Kerio&fontSize=60&fontColor=372115&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20Computer%20Scientist%20%3A%29&descAlignY=55&descSize=20"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Solving+world+problems...;Continuous+learning...)](https://git.io/typing-svg)
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" /&gt;
-  &lt;img src="https://img.shields.io/badge/Focus-Solving%20Problems%20%7C%20Machine%20Learning%20%26%20Internet%20of%20Things-d79157?style=for-the-badge" alt="Focus" /&gt;
-  &lt;img src="https://img.shields.io/badge/Status-Building-863e1e?style=for-the-badge" alt="Status" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Solving%20Problems%20%7C%20Machine%20Learning%20%26%20Internet%20of%20Things-d79157?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Building-863e1e?style=for-the-badge" alt="Status" />
+</p>
 
-&lt;pre style="font-family: 'Courier New', monospace; line-height: 1.2; color: #863e1e;"&gt;
+<pre style="font-family: 'Courier New', monospace; line-height: 1.2; color: #863e1e;">
 ██████╗░██████╗░██╗░█████╗░███╗░░██╗  ██╗░░██╗███████╗██████╗░██╗░█████╗░
 ██╔══██╗██╔══██╗██║██╔══██╗████╗░██║  ██║░██╔╝██╔════╝██╔══██╗██║██╔══██╗
 ██████╦╝██████╔╝██║███████║██╔██╗██║  █████═╝░█████╗░░██████╔╝██║██║░░██║
 ██╔══██╗██╔══██╗██║██╔══██║██║╚████║  ██╔═██╗░██╔══╝░░██╔══██╗██║██║░░██║
 ██████╦╝██║░░██║██║██║░░██║██║░╚███║  ██║░╚██╗███████╗██║░░██║██║╚█████╔╝
 ╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚═╝╚═╝░░╚══╝  ╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░╚════╝░
-&lt;/pre&gt;
+</pre>
 
-&lt;/div&gt;
-
-&lt;!-- ═══════════════════════════════════════════════════════════════════ --&gt;
-&lt;!-- 🐍 SNAKE ANIMATION SECTION — Auto-generated every 12 hours        --&gt;
-&lt;!-- ═══════════════════════════════════════════════════════════════════ --&gt;
-
-&lt;div align="center"&gt;
-
-&lt;pre style="font-family: 'Courier New', monospace; color: #863e1e; line-height: 1.2;"&gt;
-    ╭────────────────────────────────────────────╮
-    │  🐍  WATCH MY CONTRIBUTIONS GET EATEN  🐍  │
-    ╰────────────────────────────────────────────╯
-&lt;/pre&gt;
-
-&lt;!-- GitHub Contribution Snake — Dark/Light aware --&gt;
-&lt;picture&gt;
-  &lt;source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/BKerio/BKerio/output/github-snake-dark.svg?palette=github-dark" 
-  /&gt;
-  &lt;source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/BKerio/BKerio/output/github-snake.svg?palette=github-light" 
-  /&gt;
-  &lt;img 
-    alt="GitHub Contribution Snake Animation" 
-    src="https://raw.githubusercontent.com/BKerio/BKerio/output/github-snake.svg" 
-    width="100%" 
-  /&gt;
-&lt;/picture&gt;
-
-&lt;br&gt;
-
-&lt;!-- Snake Stats --&gt;
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Snake_Length-Growing_📈-863e1e?style=for-the-badge&logo=github&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Food-Commits_🍎-d79157?style=for-the-badge&logo=git&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Speed-Every_12_Hours_⚡-f4da90?style=for-the-badge&logo=clock&logoColor=863e1e" /&gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -69,23 +29,23 @@ I am driving engineering and innovation at [Millenium Solutions E.A Ltd](https:/
 I studied CS and Math, with a minor in Physics, at Kenya Methodist University.
 My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](https://x.com/mntruell), [Cursor](https://x.com/cursor_ai), [Andrej Karpathy](https://x.com/karpathy), [Ilya Sutskever](https://x.com/ilyasut), and [Sam Altman](https://x.com/sama) - individuals who push the boundaries of what seems impossible, and whose work has a profound impact on the world.
 
-&lt;br&gt;
+<br>
 
 ## Connect with Me via
-&lt;p&gt;
-  &lt;a href="https://linkedin.com/in/BrianKerio"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"&gt;
-  &lt;/a&gt;
-  &lt;a href="https://x.com/@realbrianKerio"&gt;
-    &lt;img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:briankerio47@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-black.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"&gt;
-  &lt;/a&gt;
-  &lt;a href="https://briankerio.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Website-black.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p>
+  <a href="https://linkedin.com/in/BrianKerio">
+    <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/@realbrianKerio">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:briankerio47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://briankerio.com">
+    <img src="https://img.shields.io/badge/Website-black.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
 ---
 
@@ -252,16 +212,16 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 
 ## 📊 GitHub Statistics
 
-&lt;!--GitHub Stats (Reliable Mirrors) --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://streak-stats.demolab.com?user=BKerio&theme=tokyonight&hide_border=true&cache_seconds=86400" /&gt;
-&lt;/p&gt;
+<!--GitHub Stats (Reliable Mirrors) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BKerio&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BKerio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /&gt;
-  &lt;img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=tokyonight&hide_border=true" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BKerio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKerio&theme=tokyonight" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKerio&theme=tokyonight" />
+</p>
