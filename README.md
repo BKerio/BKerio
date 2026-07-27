@@ -222,12 +222,6 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BKerio/BKerio/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BKerio/BKerio/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BKerio/BKerio/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKerio&theme=tokyonight" />
 </p>
