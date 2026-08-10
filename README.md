@@ -50,6 +50,8 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 | **Inference Style** | Ships fast, iterates faster |
 | **Known Limitations** | Occasionally overfits to side projects |
 
+📉 **Loss curve (2019 → 2026):** `▇▇▆▆▅▄▃▃▂▁` — noisy, but monotonically converging.
+
 <details>
 <summary>🧪 <b>Training Log</b> — <code>train.py --model brian_kerio --epochs 2019:2026</code></summary>
 
@@ -67,9 +69,49 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 
 </details>
 
+<details>
+<summary>🏗️ <b>Architecture Summary</b> — <code>model.summary()</code></summary>
+
+<pre style="font-family: 'Courier New', monospace; line-height: 1.4; color: #863e1e;">
+Model: "brian_kerio_v2026"
+_________________________________________________________________________
+ Layer (type)                    Output Shape                Trained On
+===========================================================================
+ education (Dense)               (KeMU, CS + Math + Physics) 4 yrs → 🏅 First Class Honours
+ research (Conv1D)                (Algebraic, Statistical)    ongoing
+ competitive_programming (RNN)    (contests,)                 sharpened reflexes
+ fintech_ml (LSTM)                (Tokenpap, My Kanisa)       -30% fraud · +65% giving
+ embedded_iot (Conv2D)            (ESP32, Pool Pay System)    -80% cash errors
+ llm_rag (MultiHeadAttention)     (WhatsApp AI Assistant)     shipped 🚀
+===========================================================================
+Total params:          6 shipped products
+Trainable params:      ∞ (always learning)
+Non-trainable params:  sleep schedule 😅
+_________________________________________________________________________
+</pre>
+
+</details>
+
 <br>
 
 ## Connect with Me via
+
+```json
+GET /api/v1/brian-kerio/contact HTTP/1.1
+
+{
+  "status": 200,
+  "reachable_via": {
+    "linkedin": "https://linkedin.com/in/BrianKerio",
+    "x": "https://x.com/realbrianKerio",
+    "email": "briankerio47@gmail.com",
+    "website": "https://briankerio.com"
+  },
+  "avg_response_time": "< 24h",
+  "rate_limit": "none — always open to interesting problems"
+}
+```
+
 <p>
   <a href="https://linkedin.com/in/BrianKerio">
     <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
