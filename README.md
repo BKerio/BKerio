@@ -11,12 +11,12 @@
 </p>
 
 <pre style="font-family: 'Courier New', monospace; line-height: 1.2; color: #863e1e;">
-██████╗░██████╗░██╗░█████╗░███╗░░██╗  ██╗░░██╗███████╗██████╗░██╗░█████╗░
-██╔══██╗██╔══██╗██║██╔══██╗████╗░██║  ██║░██╔╝██╔════╝██╔══██╗██║██╔══██╗
-██████╦╝██████╔╝██║███████║██╔██╗██║  █████═╝░█████╗░░██████╔╝██║██║░░██║
-██╔══██╗██╔══██╗██║██╔══██║██║╚████║  ██╔═██╗░██╔══╝░░██╔══██╗██║██║░░██║
-██████╦╝██║░░██║██║██║░░██║██║░╚███║  ██║░╚██╗███████╗██║░░██║██║╚█████╔╝
-╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚═╝╚═╝░░╚══╝  ╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░╚════╝░
+██████╗░██████╗░██╗░█████╗░███╗░░██╗  ██╗░░██╗███████╗██████╗░██╗░█████╗░
+██╔══██╗██╔══██╗██║██╔══██╗████╗░██║  ██║░██╔╝██╔════╝██╔══██╗██║██╔══██╗
+██████╦╝██████╔╝██║███████║██╔██╗██║  █████═╝░█████╗░░██████╔╝██║██║░░██║
+██╔══██╗██╔══██╗██║██╔══██║██║╚████║  ██╔═██╗░██╔══╝░░██╔══██╗██║██║░░██║
+██████╦╝██║░░██║██║██║░░██║██║░╚███║  ██║░╚██╗███████╗██║░░██║██║╚█████╔╝
+╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚═╝╚═╝░░╚══╝  ╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░╚════╝░
 </pre>
 
 </div>
@@ -31,92 +31,12 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 
 <br>
 
-## 🤗 Model Card — `brian-kerio`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Model-brian--kerio--v2026-863e1e?style=for-the-badge&logo=huggingface&logoColor=white" alt="Model" />
-  <img src="https://img.shields.io/badge/Status-Currently%20Training%3A%20RAG%20%26%20Agentic%20Systems-d79157?style=for-the-badge&logo=openai&logoColor=white" alt="Training Status" />
-  <img src="https://img.shields.io/badge/License-MIT%20(mostly)-f4da90?style=for-the-badge" alt="License" />
-</p>
-
-| Attribute | Value |
-|---|---|
-| **Architecture** | Full-stack ML Engineer (Human, v2026) |
-| **Base Training** | B.Sc. Computer Science & Mathematics *(Minor: Physics)* — Kenya Methodist University |
-| **Fine-tune Result** | 🏅 **First Class Honours** |
-| **Pretraining Corpus** | Algebraic & statistical mathematics research, competitive programming |
-| **Domain Adaptation** | LLM-driven recommendation systems · RAG pipelines · fintech ML · embedded/IoT |
-| **Deployed At** | [Millenium Solutions E.A Ltd](https://www.millenium.co.ke/) |
-| **Inference Style** | Ships fast, iterates faster |
-| **Known Limitations** | Occasionally overfits to side projects |
-
-📉 **Loss curve (2019 → 2026):** `▇▇▆▆▅▄▃▃▂▁` — noisy, but monotonically converging.
-
-<details>
-<summary>🧪 <b>Training Log</b> — <code>train.py --model brian_kerio --epochs 2019:2026</code></summary>
-
-<pre style="font-family: 'Courier New', monospace; line-height: 1.4; color: #863e1e;">
-[Epoch] Math & CS @ KeMU          loss: syllabus       → val: First Class Honours ✅
-[Epoch] Algebraic Research        loss: open_proofs    → val: converged
-[Epoch] Competitive Programming   loss: TLE             → val: optimized
-[Epoch] Fintech @ Tokenpap        loss: fraud_rate     → val: -30% 📉
-[Epoch] IoT @ Pool Pay System     loss: cash_errors    → val: -80% 📉
-[Epoch] LLM/RAG @ Millenium       loss: latency        → val: shipped 🚀
-
->> checkpoint saved: brian_kerio_v2026.pt
->> currently training on: agentic workflows, local-first inference
-</pre>
-
-</details>
-
-<details>
-<summary>🏗️ <b>Architecture Summary</b> — <code>model.summary()</code></summary>
-
-<pre style="font-family: 'Courier New', monospace; line-height: 1.4; color: #863e1e;">
-Model: "brian_kerio_v2026"
-_________________________________________________________________________
- Layer (type)                    Output Shape                Trained On
-===========================================================================
- education (Dense)               (KeMU, CS + Math + Physics) 4 yrs → 🏅 First Class Honours
- research (Conv1D)                (Algebraic, Statistical)    ongoing
- competitive_programming (RNN)    (contests,)                 sharpened reflexes
- fintech_ml (LSTM)                (Tokenpap, My Kanisa)       -30% fraud · +65% giving
- embedded_iot (Conv2D)            (ESP32, Pool Pay System)    -80% cash errors
- llm_rag (MultiHeadAttention)     (WhatsApp AI Assistant)     shipped 🚀
-===========================================================================
-Total params:          6 shipped products
-Trainable params:      ∞ (always learning)
-Non-trainable params:  sleep schedule 😅
-_________________________________________________________________________
-</pre>
-
-</details>
-
-<br>
-
 ## Connect with Me via
-
-```json
-GET /api/v1/brian-kerio/contact HTTP/1.1
-
-{
-  "status": 200,
-  "reachable_via": {
-    "linkedin": "https://linkedin.com/in/BrianKerio",
-    "x": "https://x.com/realbrianKerio",
-    "email": "briankerio47@gmail.com",
-    "website": "https://briankerio.com"
-  },
-  "avg_response_time": "< 24h",
-  "rate_limit": "none — always open to interesting problems"
-}
-```
-
 <p>
   <a href="https://linkedin.com/in/BrianKerio">
     <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/realbrianKerio">
+  <a href="https://x.com/@realbrianKerio">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
   <a href="mailto:briankerio47@gmail.com">
@@ -276,6 +196,7 @@ GET /api/v1/brian-kerio/contact HTTP/1.1
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
