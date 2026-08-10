@@ -210,7 +210,7 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <!--GitHub Stats (Reliable Mirrors) -->
 <p align="center">
