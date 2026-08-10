@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=200&section=header&text=Brian%20Kerio&fontSize=60&fontColor=372115&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Scientist%20%3A%29&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=200&section=header&text=Brian%20Kerio&fontSize=60&fontColor=372115&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20Applied%20Research&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Solving+world+problems...;Continuous+learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=650&lines=Training+models...;Shipping+RAG+pipelines...;Optimizing+for+production...;Still+debugging+gradients+%F0%9F%98%85)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=BKerio&color=d79157&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
@@ -12,9 +12,20 @@
 
 ## About Me
 
-I am driving engineering and innovation at [Millenium Solutions E.A Ltd](https://www.millenium.co.ke/) to advance useful technology. In the past, I have worked on both algebraic and statistical mathematics research, LLM-driven recommendation systems, high-throughput drug pipelines, fintech platforms, embedded systems, and competitive programming.
-I studied CS and Math, with a minor in Physics, at Kenya Methodist University.
+I am driving engineering and innovation at [Millenium Solutions E.A Ltd](https://www.millenium.co.ke/) to advance useful technology. My work centers on **applied machine learning** — LLM-driven recommendation systems, retrieval-augmented generation (RAG), high-throughput drug-discovery pipelines, fintech platforms, and embedded/IoT systems — grounded in algebraic and statistical mathematics research and sharpened by competitive programming.
+
+🔭 **Currently building:** production RAG & agentic systems at Millenium Solutions
+🌱 **Currently exploring:** local-first LLM inference (Ollama/Llama) and LangChain-based tool-use agents
+🎓 **Studied:** CS and Math, with a minor in Physics, at Kenya Methodist University
+
 My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](https://x.com/mntruell), [Cursor](https://x.com/cursor_ai), [Andrej Karpathy](https://x.com/karpathy), [Ilya Sutskever](https://x.com/ilyasut), and [Sam Altman](https://x.com/sama) - individuals who push the boundaries of what seems impossible, and whose work has a profound impact on the world.
+
+<br>
+
+## 🎓 Education
+
+**B.Sc. Computer Science & Mathematics** *(Minor: Physics)*
+Kenya Methodist University — 🏅 **First Class Honours**
 
 <br>
 
@@ -33,6 +44,38 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
     <img src="https://img.shields.io/badge/Website-black.svg?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
+
+---
+
+## 🧠 ML Engineering Focus
+
+| Domain | Applied In |
+|---|---|
+| 🗣️ **LLM & RAG Systems** | Millenium WhatsApp AI Assistant — RAG pipeline over company knowledge bases, OpenAI/Gemini-backed |
+| 🎯 **Recommendation Systems** | LLM-driven recommendation systems research |
+| 🧬 **ML for Drug Discovery** | High-throughput drug-discovery pipelines |
+| 💳 **Fintech ML & Automation** | Fraud-minimizing validation algorithms, M-Pesa/Daraja transaction pipelines |
+| 📡 **Embedded & Edge Systems** | ESP32-based IoT payment validation (Pool Pay System) |
+| 📐 **Applied Research** | Algebraic & statistical mathematics underpinning model design |
+
+**My typical build loop:**
+
+```mermaid
+flowchart LR
+    A[📥 Data Ingestion] --> B[🧹 Feature Engineering]
+    B --> C{Model Type}
+    C -->|Structured| D[XGBoost / scikit-learn]
+    C -->|Deep Learning| E[PyTorch / TensorFlow]
+    C -->|Language| F["LLM + RAG
+    (OpenAI / Ollama / LangChain)"]
+    D --> G[📊 Evaluation]
+    E --> G
+    F --> G
+    G --> H["🚀 Deployment
+    (FastAPI / Docker / Cloud)"]
+    H --> I[📈 Monitoring & Feedback]
+    I -.retrain.-> B
+```
 
 ---
 
@@ -86,10 +129,6 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 
 ## 💻 Tech Stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,cs,php,dart" alt="Languages" />
-
 **AI & Machine Learning**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI/ML" />
@@ -111,6 +150,11 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 ![Claude](https://img.shields.io/badge/Claude-FF9900?style=flat-square&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![Kimi](https://img.shields.io/badge/Kimi-AI-1E293B?style=flat-square&logo=ai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logo=chainlink&logoColor=white)
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,cs,php,dart" alt="Languages" />
 
 **Frameworks & Web**
 
@@ -124,7 +168,6 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=flat-square&logo=deno&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=flat-square&logo=webhook&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logo=chainlink&logoColor=white)
 
 **Cloud, DevOps & Databases**
 
