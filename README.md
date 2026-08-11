@@ -59,7 +59,7 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 * Developed a token generation system processing 5,000+ monthly utility requests.
 * Designed a secure validation algorithm minimizing fraud by 30%.
 * Implemented a microservice architecture reducing downtime by 25%.
-* Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
+* Optimized MongoDB aggregation pipelines improving reporting performance by 67%.
 
 ### ⛪ My Kanisa app *(November 2025)*
 **Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `Daraja API`
