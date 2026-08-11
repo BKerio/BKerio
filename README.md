@@ -63,7 +63,7 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 
 ### ⛪ My Kanisa app *(November 2025)*
 **Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `Daraja API`
-
+kk
 🌐 **Live:** http://api.mykanisa.com
 
 * Architected a full-stack system serving 1,000+ members with role-based access control.
