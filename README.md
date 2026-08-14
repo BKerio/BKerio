@@ -25,7 +25,7 @@
 
 ## About Me
 
-I am driving engineering and innovation at [Millenium Solutions E.A Ltd](https://www.millenium.co.ke/) to advance useful technology. In the past, I have worked on both algebraic and statistical mathematics research, LLM-driven recommendation systems, high-throughput drug pipelines, fintech platforms, embedded systems, and competitive programming.
+I am driving engineering and innovation at [Millenium Solutions 00E.A Ltd](https://www.millenium.co.ke/) to advance useful technology. In the past, I have worked on both algebraic and statistical mathematics research, LLM-driven recommendation systems, high-throughput drug pipelines, fintech platforms, embedded systems, and competitive programming.
 I studied CS and Math, with a minor in Physics, at Kenya Methodist University.
 My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](https://x.com/mntruell), [Cursor](https://x.com/cursor_ai), [Andrej Karpathy](https://x.com/karpathy), [Ilya Sutskever](https://x.com/ilyasut), and [Sam Altman](https://x.com/sama) - individuals who push the boundaries of what seems impossible, and whose work has a profound impact on the world.
 
