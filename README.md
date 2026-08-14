@@ -23,7 +23,7 @@
 
 ---
 
-## About Me...
+## About Me
 
 I am driving engineering and innovation at [Millenium Solutions E.A Ltd](https://www.millenium.co.ke/) to advance useful technology. In the past, I have worked on both algebraic and statistical mathematics research, LLM-driven recommendation systems, high-throughput drug pipelines, fintech platforms, embedded systems, and competitive programming.
 I studied CS and Math, with a minor in Physics, at Kenya Methodist University.
