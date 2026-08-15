@@ -61,10 +61,6 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 * Implemented a microservice architecture reducing downtime by 25%.
 * Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
 
-### ⛪ My Kanisa app *(November 2025)*
-**Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `Daraja API`
-
-
 ### 📋 Enterprise Task Management App *(April 2025)*
 **Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps` | `Node-Cron`
 
