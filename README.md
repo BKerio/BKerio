@@ -64,12 +64,6 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 ### ⛪ My Kanisa app *(November 2025)*
 **Tech Stack:** `Laravel` | `MySQL` | `React` | `Flutter` | `Bulk SMS` | `Daraja API`
 
-🌐 **Live:** http://api.mykanisa.com
-
-* Architected a full-stack system serving 1,000+ members with role-based access control.
-* Integrated M-Pesa payments, increasing giving efficiency by 65%.
-* Implemented bulk SMS and WhatsApp broadcasts, reducing communication costs by 40%.
-* Designed RESTful APIs handling 10,000+ monthly transactions with optimized MySQL indexing.
 
 ### 📋 Enterprise Task Management App *(April 2025)*
 **Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps` | `Node-Cron`
