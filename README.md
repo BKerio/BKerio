@@ -51,38 +51,50 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
 
 ## 💼 Featured Projects
 
-### ⚡ Tokenpap *(February 2026)*
-**Tech Stack:** `Laravel` | `MongoDB` | `Flutter` | `React` | `CentOS 10` | `Nginx` | `Daraja API` 
+### 🧠 Brain Tumor Classification
+**Tech Stack:** `TensorFlow` | `Keras` | `Streamlit` | `OpenCV` | `Google Gemini API`
 
-🌐 **Live:** https://app.tokenpap.com
+🔗 **Repo:** https://github.com/BKerio/Briantumor-classification
 
-* Developed a token generation system processing 5,000+ monthly utility requests.
-* Designed a secure validation algorithm minimizing fraud by 30%.
-* Implemented a microservice architecture reducing downtime by 25%.
-* Optimized MongoDB aggregation pipelines improving reporting performance by 40%.
+* Classified brain MRI scans into glioma, meningioma, pituitary tumor, or no-tumor using a transfer-learning Xception model (97.56% test accuracy) and a custom CNN trained from scratch (91.16%).
+* Built an interactive Streamlit app with gradient-based saliency maps and Gemini-powered AI explanations of model focus areas.
+* Trained on ~7,000 Kaggle MRI images with a stratified train/validation/test split.
 
-### 📋 Enterprise Task Management App *(April 2025)*
-**Tech Stack:** `Express` | `MongoDB` | `React` | `Flutter` | `Google Maps` | `Node-Cron`
+### 🩺 Diabetes Risk Prediction
+**Tech Stack:** `Python` | `scikit-learn` | `Pandas` | `NumPy` | `Matplotlib`
 
-🌐 **Live:** https://task.elegancedesigners.com
-* Developed a real-time system for 50+ employees across two companies.
-* Implemented GPS tracking, improving field monitoring by 45%.
-* Reduced reporting delays by 60% via centralized analytics.
+🔗 **Repo:** https://github.com/BKerio/Diabetes-prediction
 
-### 🎱 Pool Pay System *(April 2025)*
-**Tech Stack:** `Express` | `C++` | `React` | `Arduino ESP32(WiFi)` | `Daraja API`
-* Engineered an IoT payment solution with ESP32 and M-Pesa integration.
-* Processed 1,500+ transactions with secure validation.
-* Reduced cash handling errors by 80%.
+* Built a production-style ML pipeline on the Pima Indians Diabetes dataset, comparing Random Forest, Gradient Boosting, and SVM classifiers.
+* Applied 5-fold cross-validation and hyperparameter tuning, evaluating with F1-score, ROC-AUC, and Matthews Correlation Coefficient.
+* Automated missing-value and outlier handling in a modular, reusable preprocessing pipeline.
 
-### 🤖 Millenium WhatsApp AI Assistant *(June 2026)*
+### 🐿️ SquirrelGPT
+**Tech Stack:** `Python` (standard library only) | Custom autograd engine
 
-**Tech Stack:** `WhatsApp Cloud API` | `Node.js` | `MongoDB` | `OpenAI/Gemini` | `RAG` | `M-Pesa Daraja API`
+🔗 **Repo:** https://github.com/BKerio/SquirrelGPT
 
-* Built an AI-powered WhatsApp assistant for customer support, lead generation, and service automation.
-* Integrated M-Pesa STK Push payments with automated transaction validation and confirmations.
-* Implemented a RAG pipeline to deliver accurate, context-aware responses from company knowledge bases.
-* Automated customer interactions, reducing response times and improving service efficiency.
+* Implemented a GPT-style transformer from scratch in under 100 lines, with zero ML framework dependencies — no PyTorch, TensorFlow, or NumPy.
+* Hand-built a scalar-level autograd engine, causal self-attention, and character-level tokenizer to expose the mechanics behind LLMs.
+* Deliberately overfits a small dataset as a teaching tool for backpropagation, embeddings, and attention.
+
+### ⚡ PoolPay Automation
+**Tech Stack:** `ESP32` | `Node.js` | `Express` | `TypeScript` | `MongoDB` | `Daraja API`
+
+🔗 **Repo:** https://github.com/BKerio/PoolPay-Automation
+
+* Built an IoT access-control terminal: users enter a phone number and amount on a keypad, guided by an LCD, to pay via M-Pesa STK Push.
+* ESP32 polls payment status every 3 seconds and triggers a servo-driven gate unlock on confirmed payment.
+* Hardened the backend with Helmet, rate limiting, and env-based credential validation; documented extensibility for a Stripe gateway alongside M-Pesa.
+
+### 🤖 Millenium WhatsApp AI Assistant
+**Tech Stack:** `WhatsApp Cloud API` | `Node.js` | `TypeScript` | `Express` | `MongoDB` | `Socket.IO` | `Daraja API`
+
+🔗 **Repo:** https://github.com/BKerio/whatsapp-bot
+
+* Built a conversational WhatsApp assistant for Millenium Solutions handling service inquiries, user registration, and a team directory.
+* Integrated M-Pesa STK Push payments via the Daraja API, pushing real-time transaction status to clients over Socket.IO.
+* Delivered through the Meta Cloud API with a TypeScript, path-aliased architecture.
 
 ---
 
@@ -207,9 +219,12 @@ My inspirations include [Elon Musk](https://x.com/elonmusk), [Michael Truell](ht
   <img src="https://streak-stats.demolab.com?user=BKerio&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
+<!-- NOTE: official github-readme-stats.vercel.app instance is currently returning
+     503 DEPLOYMENT_PAUSED, so pointing here means these cards need PAT_1 set in
+     the github-readme-stats-sigma-five Vercel project's env vars to work. -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BKerio&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BKerio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
