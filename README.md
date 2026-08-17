@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/name-banner.svg" alt="Brian Kerio" width="500"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4da90,50:d79157,100:863e1e&height=140&section=header&fontColor=372115&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Scientist%20%3A%29&descAlignY=55&descSize=20"/>
+<img src="assets/name-banner.svg" alt="Brian Kerio — Machine Learning Engineer | Computer Scientist" width="700"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Solving+world+problems...;Continuous+learning...)](https://git.io/typing-svg)
 
@@ -11,7 +9,6 @@
   <img src="https://img.shields.io/badge/Focus-Solving%20Problems%20%7C%20Machine%20Learning%20%26%20Internet%20of%20Things-d79157?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Building-863e1e?style=for-the-badge" alt="Status" />
 </p>
-
 
 </div>
 
