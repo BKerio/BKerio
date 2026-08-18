@@ -21,7 +21,7 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 
 <br>
 
-## Let's Connect.
+## Let's Connect
 <p>
   <a href="https://linkedin.com/in/BrianKerio">
     <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
