@@ -34,7 +34,7 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
   </a>
   <a href="https://briankerio.com">
     <img src="https://img.shields.io/badge/Website-black.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>kkk
+  </a>
 </p>
 
 ---
