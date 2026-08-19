@@ -39,7 +39,7 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 
 ---
 
-## 💼 Featured Projects
+## Projects have done
 
 ### 🧠 Brain Tumor Classification
 **Tech Stack:** `TensorFlow` | `Keras` | `Streamlit` | `OpenCV` | `Google Gemini API`
