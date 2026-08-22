@@ -263,19 +263,6 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
   </picture>
 </p>
 
-<!--GitHub Stats (Reliable Mirrors) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BKerio&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<!-- NOTE: official github-readme-stats.vercel.app instance is currently returning
-     503 DEPLOYMENT_PAUSED, so pointing here means these cards need PAT_1 set in
-     the github-readme-stats-sigma-five Vercel project's env vars to work. -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BKerio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BKerio&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKerio&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BKerio&theme=tokyonight" />
