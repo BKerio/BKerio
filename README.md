@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/name-banner.svg" alt="Brian Kerio — Machine Learning Engineer | Computer Scientist" width="700"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/name-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/name-banner-light.svg">
+  <img src="assets/name-banner-light.svg" alt="brian kerio — Machine Learning Engineer | Computer Scientist" width="500"/>
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Solving+world+problems...;Continuous+learning...)](https://git.io/typing-svg)
 
