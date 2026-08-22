@@ -18,14 +18,22 @@
 
 ---
 
-## About Me
+<h2><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/about-light.svg">
+  <img src="assets/headings/about-light.svg" alt="About Me" height="30">
+</picture></h2>
 
 I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, and solving real-world problems with technology. I studied Computer Science and Mathematics at Kenya Methodist University. My inspirations include [Elon Musk](https://x.com/elonmusk) and [Michael Truell](https://x.com/mntruell), I’m fascinated by what’s possible when engineering meets bold thinking. Forever learning, building, and solving.
 
 
 <br>
 
-## Let's Connect
+<h2><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/connect-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/connect-light.svg">
+  <img src="assets/headings/connect-light.svg" alt="Let's Connect" height="30">
+</picture></h2>
 <p>
   <a href="https://linkedin.com/in/BrianKerio">
     <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -43,9 +51,18 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 
 ---
 
-## Projects have done.
+<h2><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/projects-light.svg">
+  <img src="assets/headings/projects-light.svg" alt="Projects have done." height="30">
+</picture></h2>
 
-### 🧠 Brain Tumor Classification
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/proj-tumor-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/proj-tumor-light.svg">
+  <img src="assets/headings/proj-tumor-light.svg" alt="🧠 Brain Tumor Classification" height="22">
+</picture></h3>
+
 **Tech Stack:** `TensorFlow` | `Keras` | `Streamlit` | `OpenCV` | `Google Gemini API`
 
 🔗 **Repo:** https://github.com/BKerio/Briantumor-classification
@@ -54,7 +71,12 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 * Built an interactive Streamlit app with gradient-based saliency maps and Gemini-powered AI explanations of model focus areas.
 * Trained on ~7,000 Kaggle MRI images with a stratified train/validation/test split.
 
-### 🩺 Diabetes Risk Prediction
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/proj-diabetes-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/proj-diabetes-light.svg">
+  <img src="assets/headings/proj-diabetes-light.svg" alt="🩺 Diabetes Risk Prediction" height="22">
+</picture></h3>
+
 **Tech Stack:** `Python` | `scikit-learn` | `Pandas` | `NumPy` | `Matplotlib`
 
 🔗 **Repo:** https://github.com/BKerio/Diabetes-prediction
@@ -63,7 +85,12 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 * Applied 5-fold cross-validation and hyperparameter tuning, evaluating with F1-score, ROC-AUC, and Matthews Correlation Coefficient.
 * Automated missing-value and outlier handling in a modular, reusable preprocessing pipeline.
 
-### 🐿️ SquirrelGPT
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/proj-squirrel-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/proj-squirrel-light.svg">
+  <img src="assets/headings/proj-squirrel-light.svg" alt="🐿️ SquirrelGPT" height="22">
+</picture></h3>
+
 **Tech Stack:** `Python` (standard library only) | Custom autograd engine
 
 🔗 **Repo:** https://github.com/BKerio/SquirrelGPT
@@ -72,7 +99,12 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 * Hand-built a scalar-level autograd engine, causal self-attention, and character-level tokenizer to expose the mechanics behind LLMs.
 * Deliberately overfits a small dataset as a teaching tool for backpropagation, embeddings, and attention.
 
-### ⚡ PoolPay Automation
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/proj-poolpay-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/proj-poolpay-light.svg">
+  <img src="assets/headings/proj-poolpay-light.svg" alt="⚡ PoolPay Automation" height="22">
+</picture></h3>
+
 **Tech Stack:** `ESP32` | `Node.js` | `Express` | `TypeScript` | `MongoDB` | `Daraja API`
 
 🔗 **Repo:** https://github.com/BKerio/PoolPay-Automation
@@ -81,7 +113,12 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 * ESP32 polls payment status every 3 seconds and triggers a servo-driven gate unlock on confirmed payment.
 * Hardened the backend with Helmet, rate limiting, and env-based credential validation; documented extensibility for a Stripe gateway alongside M-Pesa.
 
-### 🤖 Millenium WhatsApp AI Assistant
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/proj-whatsapp-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/proj-whatsapp-light.svg">
+  <img src="assets/headings/proj-whatsapp-light.svg" alt="🤖 Millenium WhatsApp AI Assistant" height="22">
+</picture></h3>
+
 **Tech Stack:** `WhatsApp Cloud API` | `Node.js` | `TypeScript` | `Express` | `MongoDB` | `Socket.IO` | `Daraja API`
 
 🔗 **Repo:** https://github.com/BKerio/whatsapp-bot
@@ -92,7 +129,11 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 
 ---
 
-## 💻 Tech Stack
+<h2><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/techstack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/techstack-light.svg">
+  <img src="assets/headings/techstack-light.svg" alt="💻 Tech Stack" height="30">
+</picture></h2>
 
 ### 🌍 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -206,7 +247,11 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 
 ---
 
-## GitHub Statistics
+<h2><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headings/ghstats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/ghstats-light.svg">
+  <img src="assets/headings/ghstats-light.svg" alt="GitHub Statistics" height="30">
+</picture></h2>
 
 <!--GitHub Stats (Reliable Mirrors) -->
 <p align="center">
