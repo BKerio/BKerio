@@ -278,4 +278,5 @@ I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, an
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKerio&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BKerio&theme=tokyonight" />
 </p>
