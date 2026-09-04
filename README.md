@@ -24,7 +24,9 @@
   <img src="assets/headings/about-light.svg" alt="About Me" height="30">
 </picture></h2>
 
-I’m Brian Kerio, a Machine Learning Engineer who loves coding, mathematics, and solving real-world problems with technology. I studied Computer Science and Mathematics at Kenya Methodist University. My inspirations include [Elon Musk](https://x.com/elonmusk) and [Michael Truell](https://x.com/mntruell), I’m fascinated by what’s possible when engineering meets bold thinking. Forever learning, building, and solving.
+Hey, I'm Brian Kerio, a Machine Learning Engineer Attempting to build very useful Technology.
+
+If you're interested in creating excellent products, training cutting-edge models, or building at-scale infrastructure, feel free to reach out.
 
 
 <br>
