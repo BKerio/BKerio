@@ -37,11 +37,11 @@ If you're interested in creating excellent products, training cutting-edge model
   <img src="assets/headings/connect-light.svg" alt="Let's Connect" height="30">
 </picture></h2>
 <p>
-  <a href="https://linkedin.com/in/BrianKerio">
-    <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="https://x.com/@realbrianKerio">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+   <a href="https://linkedin.com/in/BrianKerio">
+    <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:briankerio47@gmail.com">
     <img src="https://img.shields.io/badge/Email-black.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
