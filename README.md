@@ -24,7 +24,7 @@
   <img src="assets/headings/about-light.svg" alt="About Me" height="30">
 </picture></h2>
 
-Hey, I'm Brian Kerio, a Machine Learning Engineer Attempting to build very useful Technology.
+Hey, I'm https://briankerio.com, a Machine Learning Engineer Attempting to build very useful Technology.
 
 If you're interested in creating excellent products, training cutting-edge models, or building at-scale infrastructure, feel free to reach out.
 
