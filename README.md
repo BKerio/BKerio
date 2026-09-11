@@ -97,7 +97,7 @@ If you're interested in creating excellent products, training cutting-edge model
 
 🔗 **Repo:** https://github.com/BKerio/SquirrelGPT
 
-* Implemented a GPT-style transformer from scratch in under 100 lines, with zero ML framework dependencies — no PyTorch, TensorFlow, or NumPy.
+* Implemented a GPT-style transformer from scratch in under 100 lines, with zero ML framework dependencies - no PyTorch, TensorFlow, or NumPy.
 * Hand-built a scalar-level autograd engine, causal self-attention, and character-level tokenizer to expose the mechanics behind LLMs.
 * Deliberately overfits a small dataset as a teaching tool for backpropagation, embeddings, and attention.
 
