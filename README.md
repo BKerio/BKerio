@@ -21,7 +21,7 @@
 <h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/about-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/headings/about-light.svg">
-  <img src="assets/headings/about-light.svg" alt="About Me" height="30">
+  <img src="assets/headings/about-light.svg" alt="About Me." height="30">
 </picture></h2>
 
 Hey, I'm https://briankerio.com, a Machine Learning Engineer Attempting to build very useful Technology.
