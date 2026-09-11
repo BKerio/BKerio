@@ -81,7 +81,7 @@ If you're interested in creating excellent products, training cutting-edge model
 
 **Tech Stack:** `Python` | `scikit-learn` | `Pandas` | `NumPy` | `Matplotlib`
 
-🔗 **Repo:** https://github.com/BKerio/Diabetes-prediction
+🔗 **Repo:** https://github.com/BKerio/Diabetes-prediction.
 
 * Built a production-style ML pipeline on the Pima Indians Diabetes dataset, comparing Random Forest, Gradient Boosting, and SVM classifiers.
 * Applied 5-fold cross-validation and hyperparameter tuning, evaluating with F1-score, ROC-AUC, and Matthews Correlation Coefficient.
