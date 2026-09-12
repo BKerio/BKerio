@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/name-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/name-banner-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/name-banner-light.svg">kk
   <img src="assets/name-banner-light.svg" alt="Brian Kerio - ML Engineer" width="800"/>
 </picture>
 
