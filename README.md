@@ -20,7 +20,7 @@
 
 <h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/headings/about-light.svg">kk
+  <source media="(prefers-color-scheme: light)" srcset="assets/headings/about-light.svg">
   <img src="assets/headings/about-light.svg" alt="About Me." height="30">
 </picture></h2>
 
