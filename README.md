@@ -37,7 +37,7 @@ If you're interested in creating excellent products, training cutting-edge model
   <img src="assets/headings/connect-light.svg" alt="Let's Connect" height="30">
 </picture></h2>
 <p>
-  <a href="https://x.com/@realbrianKerio">
+  <a href="https://x.com/_briankerio">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
    <a href="https://linkedin.com/in/BrianKerio">
