@@ -59,6 +59,14 @@ If you're interested in creating excellent products, training cutting-edge model
   <img src="assets/headings/projects-light.svg" alt="Projects have done." height="30">
 </picture></h2>
 
+| Project | Tech Stack | Link |
+|---|---|---|
+| 🧠 Brain Tumor Classification | `TensorFlow` `Keras` `Streamlit` `OpenCV` `Gemini API` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BKerio/Briantumor-classification) |
+| 🩺 Diabetes Risk Prediction | `Python` `scikit-learn` `Pandas` `NumPy` `Matplotlib` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BKerio/Diabetes-prediction) |
+| 🐿️ SquirrelGPT | `Python` (standard library only) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BKerio/SquirrelGPT) |
+| ⚡ PoolPay Automation | `ESP32` `Node.js` `Express` `TypeScript` `MongoDB` `Daraja API` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BKerio/PoolPay-Automation) |
+| 🤖 Millenium WhatsApp AI Assistant | `WhatsApp Cloud API` `Node.js` `TypeScript` `Express` `MongoDB` `Socket.IO` `Daraja API` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BKerio/whatsapp-bot) |
+
 <h3><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/proj-tumor-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/headings/proj-tumor-light.svg">
