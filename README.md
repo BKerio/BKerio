@@ -71,10 +71,10 @@ If you're interested in creating excellent products, training cutting-edge model
 <h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/techstack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/headings/techstack-light.svg">
-  <img src="assets/headings/techstack-light.svg" alt="💻 Tech Stack" height="30">
+  <img src="assets/headings/techstack-light.svg" alt="Technical Stacks I use" height="30">
 </picture></h2>
 
-### Programming Languages I use for my work
+### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
