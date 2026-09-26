@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋 I'm Brian Kerio</h1>
 
-<p align="center">
-  Software Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a><br>
-  Building useful technology with Machine Learning and IoT
-</p>
-
 ---
 
 <h2><picture>
@@ -13,7 +8,14 @@
   <img src="assets/headings/about-light.svg" alt="About Me" height="30">
 </picture></h2>
 
-Hey, I'm https://www.briankerio.com, am a Software Engineer intrested in Machine Learning, Attempting to build very useful Technology.
+I'm a Software Engineer at [Millenium Solutions E.A Ltd](https://www.millenium.co.ke/), where I build the tools the team runs on every day, from **Kazi Yangu** (our internal task and sales tracker) to a WhatsApp assistant that takes M-Pesa payments.
+
+Outside of work I build with Machine Learning and IoT. I've trained models to classify brain MRI scans, written a GPT from scratch in pure Python, and wired an ESP32 to open a gate once an M-Pesa payment clears.
+
+- 🏢 **Currently:** Software Engineer at Millenium Solutions E.A Ltd
+- 🧠 **Exploring:** Machine Learning, from classic pipelines to transformers
+- 🔌 **Tinkering with:** IoT hardware, ESP32 and MQTT
+- 🌐 **More about me:** [briankerio.com](https://www.briankerio.com)
 
 If you're interested in creating excellent products, training cutting-edge models, or building at-scale infrastructure, feel free to reach out.
 
