@@ -12,7 +12,7 @@
   <img src="assets/headings/about-light.svg" alt="About Me" height="30">
 </picture></h2>
 
-Hey, I'm briankerio.com, am a Software Engineer intrested in Machine Learning, Attempting to build very useful Technology.
+Hey, I'm [Brian Kerio](https://www.briankerio.com), am a Software Engineer intrested in Machine Learning, Attempting to build very useful Technology.
 
 If you're interested in creating excellent products, training cutting-edge models, or building at-scale infrastructure, feel free to reach out.
 
