@@ -2,7 +2,6 @@
 
 <p align="center">
   Software Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a><br>
-  Building useful technology with Machine Learning and IoT
 </p>
 
 ---
@@ -13,7 +12,7 @@
   <img src="assets/headings/about-light.svg" alt="About Me" height="30">
 </picture></h2>
 
-Hey, I'm https://www.briankerio.com, am a Software Engineer intrested in Machine Learning, Attempting to build very useful Technology.
+Hey, I'm briankerio.com, am a Software Engineer intrested in Machine Learning, Attempting to build very useful Technology.
 
 If you're interested in creating excellent products, training cutting-edge models, or building at-scale infrastructure, feel free to reach out.
 
