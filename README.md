@@ -1,20 +1,9 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/name-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/name-banner-light.svg">
-  <img src="assets/name-banner-light.svg" alt="Brian Kerio — Machine Learning Engineer | Computer Scientist" width="800"/>
-</picture>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=863E1E&center=true&vCenter=true&width=600&lines=Solving+world+problems...;Continuous+learning...)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋 I'm Brian Kerio</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BKerio&color=863e1e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Solving%20Problems%20%7C%20Machine%20Learning%20%26%20Internet%20of%20Things-d79157?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building-863e1e?style=for-the-badge" alt="Status" />
+  Software Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a><br>
+  Building useful technology with Machine Learning and IoT
 </p>
-
-</div>
 
 ---
 
