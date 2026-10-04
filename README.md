@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Brian Kerio</h1>
 
 <p align="center">
-  Software Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a><br>
+  Forward Deployed Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a><br>
 </p>
 
 ---
