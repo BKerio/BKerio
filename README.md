@@ -10,7 +10,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/about-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/headings/about-light.svg">
   <img src="assets/headings/about-light.svg" alt="About Me" height="30">
-</picture></h2>
+</picture></h2> 
 
 Hey, I'm [Brian Kerio](https://www.briankerio.com), am a Machine Learning Engineer interested in Artificial Intelligence and Human Computer Interactions(HCI), Attempting to build very useful Technology.
 
