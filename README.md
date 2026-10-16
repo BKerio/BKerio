@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Brian Kerio</h1>
+<h1 align="center">Hi 👋 I'm Brian Kerio.</h1>
 
 <p align="center">
   Machine Learning Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a><br>
