@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Brian Kerio.</h1>
 
 <p align="center">
-  Human Software Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a><br>
+  Software Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a><br>
 </p>
 
 ---
@@ -12,7 +12,7 @@
   <img src="assets/headings/about-light.svg" alt="About Me" height="30">
 </picture></h2> 
 
-Hey, I'm [Brian Kerio](https://www.briankerio.com), am a Human Software Engineer interested in Artificial Intelligence and Human Computer Interactions(HCI), Attempting to build very useful Technology.
+Hey, I'm [Brian Kerio](https://www.briankerio.com), am a Software Engineer interested in Artificial Intelligence and Human Computer Interactions(HCI), Attempting to build very useful Technology.
 
 If you're interested in creating excellent products, training cutting-edge models, or building at-scale infrastructure, feel free to reach out.
 
