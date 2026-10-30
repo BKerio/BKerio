@@ -44,7 +44,7 @@ If you're interested in creating excellent products, training cutting-edge model
 <h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/projects-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/headings/projects-light.svg">
-  <img src="assets/headings/projects-light.svg" alt="Projects." height="30">
+  <img src="assets/headings/projects-light.svg" alt="Projects have done." height="30">
 </picture></h2>
 
 | Project | Description | Tech Stack | Github Link |
