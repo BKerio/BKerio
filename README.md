@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Brian Kerio.</h1> h
+<h1 align="center">Hi 👋 I'm Brian Kerio.</h1> 
 
 <p align="center">
   Software Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a> and Co-Founder and Engineering at <a href="https://www.cognisync.co.ke/"> Cognisync Solutions.</a><br>
