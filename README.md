@@ -3,7 +3,6 @@
 <p align="center">
   Machine Learning Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a> and Co-Founder at <a href="https://www.cognisync.co.ke/"> Cognisync Solutions.</a><br>
 </p>
-Profile README: add tech stack and featured projects
 ---
 
 <h2><picture>
