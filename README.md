@@ -3,7 +3,6 @@
 <p align="center">
   Machine Learning Engineer at <a href="https://www.millenium.co.ke/">Millenium Solutions E.A Ltd</a> and Co-Founder at <a href="https://www.cognisync.co.ke/"> Cognisync Solutions.</a><br>
 </p>
----
 
 <h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/about-dark.svg">
